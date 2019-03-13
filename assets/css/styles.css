@@ -1,0 +1,28 @@
+
+.sidebar {
+	background-color: #C5E5B3;
+	/*height:800px;*/
+}
+
+.navbar {
+	background: #343E2E;
+	padding:10px;
+	border-radius: 2px;
+
+}
+
+form .form-group {
+	 width: 470px;
+}
+label {
+	font-weight: 600;
+}
+h3 {
+	font-family: calibri;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+#preco, #qtd{
+	width:90px;
+}
