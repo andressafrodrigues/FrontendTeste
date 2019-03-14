@@ -1,6 +1,6 @@
 <h3>Informações do Produto</h3>
 <div  id="messages" class="alert alert-info" role="alert">
-	Preencha todos os itens *
+	Preencha todos os dados:
 </div>
 <form id="registerProducts" name="registerProducts" action="javascript:action();">
 	<div class="form-group">
