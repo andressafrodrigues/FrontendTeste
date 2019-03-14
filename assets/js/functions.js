@@ -4,7 +4,6 @@ var date;
 
 $(function(){
 	actions = 1; 
-	console.log('');
 	var idSelected = -1;
 
 	tbProduct = localStorage.getItem("tbProduct");
@@ -111,8 +110,6 @@ function setInputFilter(textbox, inputFilter) {
 		});
 	});
 }
-
-
 
 function listData(){
 	$("#tbProductsInfo").html("");
