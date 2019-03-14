@@ -1,17 +1,17 @@
-.sidebar {
+].sidebar {
 	background-color: #C5E5B3;
 	/*height:800px;*/
 }
 
-.navbar {
-	background: #343E2E;
-	padding:10px;
-	border-radius: 2px;
+#btnSubmit {
+	margin-top: 5px;
 }
 
-form .form-group {
-	 width: 470px;
+.navbar {
+	background: #343a40;
+	padding:10px;
 }
+
 label {
 	font-weight: 600;
 }
@@ -32,3 +32,16 @@ h3 {
 .container {
 	padding-top: 50px;
 }
+
+.sdbar a {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+button {
+	width:200px;
+}
+
+.manage-icon { 
+	width: 20px;
+ }
